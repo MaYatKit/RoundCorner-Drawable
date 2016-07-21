@@ -1,6 +1,6 @@
 # RoundCornerDrawable
 A Drawable which can make a bitmap has rounded corner and showed by centerCrop, fitXY and center,
-without override ImageView
+without overriding ImageView
 
 ![Screenshot](https://github.com/417704684/RoundCornerDrawable/blob/master/example.jpg)
 
