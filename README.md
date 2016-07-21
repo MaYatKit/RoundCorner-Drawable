@@ -2,7 +2,7 @@
 A Drawable which can make a bitmap has rounded corner and showed by centerCrop, fitXY and center,
 without override ImageView
 
-(https://github.com/417704684/RoundCornerDrawable/blob/master/example.jpg)
+![Screenshot](https://github.com/417704684/RoundCornerDrawable/blob/master/example.jpg)
 
 ## Origin
 Cause I found UIL and Glide both can not meet my require that make a bitmap showed with rounded
